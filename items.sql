@@ -1,0 +1,22 @@
+INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
+	('water', 'Eau', 1, 0, 1),
+	('cocacola', 'Coca-Cola', 2, 0, 1),
+    ('pizza', 'Pizza', 1, 0, 1),
+    ('beer', 'Bière', 1, 0, 1),
+    ('bread', 'Pain', 1, 0, 1),
+    ('cupcake', 'Cupcake', 1, 0, 1),
+    ('energetic', 'Boisson énergetic', 1, 0, 1),
+    ('hamburger', 'Hamburger', 1, 0, 1),
+    ('hotdog', 'Hot-dog', 1, 0, 1),
+    ('pate', 'Pates', 1, 0, 1),
+    ('pepsi', 'Pepsi', 1, 0, 1),
+    ('poulet', 'Poulet', 1, 0, 1),
+    ('sushi', 'Sushi', 1, 0, 1),
+    ('chocolate', 'Chocolat', 1, 0, 1),
+    ('sandwich', 'Sandwich', 1, 0, 1),
+    ('cheese', 'Fromage', 1, 0, 1),
+    ('frites', 'Frites', 1, 0, 1),
+    ('chips', 'Chips', 1, 0, 1),
+    ('cacahuete', 'Cacahuète', 1, 0, 1),
+    ('steak', 'Steak', 1, 0, 1)
+;
